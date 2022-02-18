@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My First Hugo Site</title>
-    <link>https://Reed-Schimmel.github.io/hugo-quickstart/</link>
+    <link>https://reed-schimmel.github.io/hugo-quickstart/</link>
     <description>Recent content on My First Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Feb 2022 20:40:25 -0600</lastBuildDate><atom:link href="https://Reed-Schimmel.github.io/hugo-quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Feb 2022 20:40:25 -0600</lastBuildDate><atom:link href="https://reed-schimmel.github.io/hugo-quickstart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://Reed-Schimmel.github.io/hugo-quickstart/posts/my-first-post/</link>
+      <link>https://reed-schimmel.github.io/hugo-quickstart/posts/my-first-post/</link>
       <pubDate>Thu, 17 Feb 2022 20:40:25 -0600</pubDate>
       
-      <guid>https://Reed-Schimmel.github.io/hugo-quickstart/posts/my-first-post/</guid>
+      <guid>https://reed-schimmel.github.io/hugo-quickstart/posts/my-first-post/</guid>
       <description>This is my first Header and this is the following text</description>
     </item>
     
