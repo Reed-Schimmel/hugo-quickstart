@@ -1,0 +1,4 @@
+baseURL = 'https://Reed-Schimmel.github.io/hugo-quickstart'
+languageCode = 'en-us'
+title = 'My First Hugo Site'
+theme = "ananke"
